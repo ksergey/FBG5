@@ -143,7 +143,7 @@
 >DEFAULT_X_STEPS_PER_UNIT	80	#XÖáÄ¬ÈÏÂö³å (steps/mm)
 >DEFAULT_Y_STEPS_PER_UNIT	80	#YÖáÄ¬ÈÏÂö³å (steps/mm)
 >DEFAULT_Z_STEPS_PER_UNIT	400	#ZÖáÄ¬ÈÏÂö³å (steps/mm)
->DEFAULT_E0_STEPS_PER_UNIT	400	#EÖáÄ¬ÈÏÂö³å (steps/mm)
+>DEFAULT_E0_STEPS_PER_UNIT	389	#EÖáÄ¬ÈÏÂö³å (steps/mm)
 >DEFAULT_E1_STEPS_PER_UNIT	90	#EÖáÄ¬ÈÏÂö³å (steps/mm)
 
 >DEFAULT_X_MAX_FEEDRATE		300	#XÖáÄ¬ÈÏËÙ¶È (mm/s)
