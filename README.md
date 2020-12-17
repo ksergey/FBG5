@@ -1,6 +1,6 @@
 # FlyingBear Ghost 5
 
-## Links
+## Ссылки
 
-  [youtube](https://www.youtube.com/channel/UCO9d2eNVwLAmIJnQt6TsNKw/featured) - off youtube channel. also in cummunity
-  tab you could find firmware
+  [youtube](https://www.youtube.com/channel/UCO9d2eNVwLAmIJnQt6TsNKw/featured) - официальный канал разработчиков мишек.
+  Там же можно найти ссылку напрошивку.
