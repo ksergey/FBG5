@@ -24,7 +24,7 @@ M92 E411
 
 [Инструкция](https://fbghost.info/bin/view/Main/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20PID/)
 
-Получилось так:
+Получилось так (экструдер):
 ```
 M301 P14 I0 D51
 ```
@@ -34,6 +34,18 @@ M301 P14 I0 D51
 #define DEFAULT_Kp 14
 #define DEFAULT_Ki 0
 #define DEFAULT_Kd 51
+```
+
+Получилось так (стол):
+```
+M301 P55 I10 D197
+```
+
+В `Configuration.h`:
+```
+#define DEFAULT_bedKp 55
+#define DEFAULT_bedKi 10
+#define DEFAULT_bedKd 197
 ```
 
 ### Cura
