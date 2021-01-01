@@ -26,14 +26,14 @@ M92 E411
 
 Получилось так (экструдер):
 ```
-M301 P14 I0 D51
+M301 P17.24 I1.23 D60.48
 ```
 
 В `Configuration.h`:
 ```
-#define DEFAULT_Kp 14
-#define DEFAULT_Ki 0
-#define DEFAULT_Kd 51
+#define DEFAULT_Kp 17.24
+#define DEFAULT_Ki 1.23
+#define DEFAULT_Kd 60.48
 ```
 
 Получилось так (стол):
