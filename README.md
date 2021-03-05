@@ -23,3 +23,4 @@
   * [amperka.ru](https://amperka.ru/page/flying-bear-ghost-5-assembly-instructions) - Как собрать Flying Bear Ghost 5
   * [teachingtechyt.github.io](https://teachingtechyt.github.io/calibration.html) - Teaching Tech 3D Printer Calibration
   * [https://3dpt.ru](https://3dpt.ru/page/faq) - Проблемы качества 3D-печати
+  * [youtube](https://www.youtube.com/watch?v=3omPxWIoM-c) - Калибровка стола 3Д-принтера
