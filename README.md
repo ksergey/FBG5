@@ -24,3 +24,8 @@
   * [teachingtechyt.github.io](https://teachingtechyt.github.io/calibration.html) - Teaching Tech 3D Printer Calibration
   * [https://3dpt.ru](https://3dpt.ru/page/faq) - Проблемы качества 3D-печати
   * [youtube](https://www.youtube.com/watch?v=3omPxWIoM-c) - Калибровка стола 3Д-принтера
+  * [youtube](https://www.youtube.com/watch?v=RegVBCkNDRE) - Flying Bear Ghost 5 - Доработки, Улучшения
+  * [youtube](https://youtu.be/tMZQjHTBGfE) - Полная Переборка Flying Bear Ghost 4S
+  * [youtube](https://www.youtube.com/watch?v=-aV87Z2iBbc) - Обслуживание 3D принтера | FLYING BEAR GHOST 5
+  * [youtube](https://youtu.be/9JAlERd41NQ) - Paper VS Feeler Gauge. Which is Best for Bed Levelling?
+  * [youtube](https://youtu.be/FXu7oH0-PXU) - Easy 3D Printer Bed Leveling with Cheap Dial Test Indicator. CR-10
