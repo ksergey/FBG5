@@ -16,12 +16,12 @@ G1 E280 F800  ; Выдавить 280 мм пластика
 
 Получилось так:
 ```
-M92 E411
+M92 E410.25
 ```
 
 В `Configuration.h`:
 ```
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 411 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 410.25 }
 ```
 
 ### Температура сопла
