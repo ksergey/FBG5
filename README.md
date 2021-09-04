@@ -25,3 +25,4 @@
   * [Обслуживание 3D принтера | FLYING BEAR GHOST 5 (SIBMAKER)](https://www.youtube.com/watch?v=-aV87Z2iBbc)
   * [Paper VS Feeler Gauge. Which is Best for Bed Levelling?](https://youtu.be/9JAlERd41NQ)
   * [Easy 3D Printer Bed Leveling with Cheap Dial Test Indicator. CR-10](https://youtu.be/FXu7oH0-PXU)
+  * [V6 Assembly Guide](https://www.youtube.com/watch?v=gwNAMveHLmw)
